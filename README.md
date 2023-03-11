@@ -5,7 +5,7 @@
 ### 100가지 이미지들을 분류하는 Image Classification 모델 개발.
 
 
-[시간순으로 진행사항 노션정리](https://hail-gray-c42.notion.site/350cbe8e65944ea3bbe5d10fef032c3d)
+[시간순으로 진행사항 노션정리](https://www.notion.so/Image-Classification-on-CIFAR-100-22-11-07-11-18-ac94517aff8f442b84324c98b684413e?pvs=4)
 
 ---
 ### Introduction
